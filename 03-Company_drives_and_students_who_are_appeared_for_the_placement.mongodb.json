@@ -1,0 +1,366 @@
+[
+  {
+    "_id": {
+      "$oid": "66e42e8d2206b47d5234f350"
+    },
+    "companyName": "Pagac and Sons",
+    "students": [
+      {
+        "_id": {
+          "$oid": "66e41f9caf017674c1380e40"
+        },
+        "firstName": "Emily",
+        "lastName": "Johnson",
+        "email": "emily.johnson@x.dummyjson.com",
+        "courseEnrolled": "Full-Stack-MERN",
+        "codekata": [],
+        "taskCompleted": [],
+        "mentorId": {
+          "$oid": "66e4206cd25e3f960b56a408"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "66e41f9caf017674c1380e41"
+        },
+        "firstName": "Michael",
+        "lastName": "Williams",
+        "email": "michael.williams@x.dummyjson.com",
+        "courseEnrolled": "Full-Stack-MERN",
+        "codekata": [],
+        "taskCompleted": [],
+        "mentorId": {
+          "$oid": "66e4206cd25e3f960b56a408"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "66e41f9caf017674c1380e42"
+        },
+        "firstName": "Sophia",
+        "lastName": "Brown",
+        "email": "sophia.brown@x.dummyjson.com",
+        "courseEnrolled": "Full-Stack-MERN",
+        "codekata": [],
+        "taskCompleted": [],
+        "mentorId": {
+          "$oid": "66e4206cd25e3f960b56a409"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "66e41f9caf017674c1380e43"
+        },
+        "firstName": "James",
+        "lastName": "Davis",
+        "email": "james.davis@x.dummyjson.com",
+        "courseEnrolled": "Full-Stack-MERN",
+        "codekata": [],
+        "taskCompleted": [],
+        "mentorId": {
+          "$oid": "66e4206cd25e3f960b56a409"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "66e42e8d2206b47d5234f354"
+    },
+    "companyName": "Miller, Schowalter and Wisozk",
+    "students": [
+      {
+        "_id": {
+          "$oid": "66e41f9caf017674c1380e40"
+        },
+        "firstName": "Emily",
+        "lastName": "Johnson",
+        "email": "emily.johnson@x.dummyjson.com",
+        "courseEnrolled": "Full-Stack-MERN",
+        "codekata": [],
+        "taskCompleted": [],
+        "mentorId": {
+          "$oid": "66e4206cd25e3f960b56a408"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "66e41f9caf017674c1380e41"
+        },
+        "firstName": "Michael",
+        "lastName": "Williams",
+        "email": "michael.williams@x.dummyjson.com",
+        "courseEnrolled": "Full-Stack-MERN",
+        "codekata": [],
+        "taskCompleted": [],
+        "mentorId": {
+          "$oid": "66e4206cd25e3f960b56a408"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "66e41f9caf017674c1380e43"
+        },
+        "firstName": "James",
+        "lastName": "Davis",
+        "email": "james.davis@x.dummyjson.com",
+        "courseEnrolled": "Full-Stack-MERN",
+        "codekata": [],
+        "taskCompleted": [],
+        "mentorId": {
+          "$oid": "66e4206cd25e3f960b56a409"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "66e42e8d2206b47d5234f352"
+    },
+    "companyName": "Graham - Gulgowski",
+    "students": [
+      {
+        "_id": {
+          "$oid": "66e41f9caf017674c1380e40"
+        },
+        "firstName": "Emily",
+        "lastName": "Johnson",
+        "email": "emily.johnson@x.dummyjson.com",
+        "courseEnrolled": "Full-Stack-MERN",
+        "codekata": [],
+        "taskCompleted": [],
+        "mentorId": {
+          "$oid": "66e4206cd25e3f960b56a408"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "66e41f9caf017674c1380e41"
+        },
+        "firstName": "Michael",
+        "lastName": "Williams",
+        "email": "michael.williams@x.dummyjson.com",
+        "courseEnrolled": "Full-Stack-MERN",
+        "codekata": [],
+        "taskCompleted": [],
+        "mentorId": {
+          "$oid": "66e4206cd25e3f960b56a408"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "66e41f9caf017674c1380e43"
+        },
+        "firstName": "James",
+        "lastName": "Davis",
+        "email": "james.davis@x.dummyjson.com",
+        "courseEnrolled": "Full-Stack-MERN",
+        "codekata": [],
+        "taskCompleted": [],
+        "mentorId": {
+          "$oid": "66e4206cd25e3f960b56a409"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "66e42e8d2206b47d5234f351"
+    },
+    "companyName": "Pollich - Hilpert",
+    "students": [
+      {
+        "_id": {
+          "$oid": "66e41f9caf017674c1380e40"
+        },
+        "firstName": "Emily",
+        "lastName": "Johnson",
+        "email": "emily.johnson@x.dummyjson.com",
+        "courseEnrolled": "Full-Stack-MERN",
+        "codekata": [],
+        "taskCompleted": [],
+        "mentorId": {
+          "$oid": "66e4206cd25e3f960b56a408"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "66e41f9caf017674c1380e41"
+        },
+        "firstName": "Michael",
+        "lastName": "Williams",
+        "email": "michael.williams@x.dummyjson.com",
+        "courseEnrolled": "Full-Stack-MERN",
+        "codekata": [],
+        "taskCompleted": [],
+        "mentorId": {
+          "$oid": "66e4206cd25e3f960b56a408"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "66e41f9caf017674c1380e42"
+        },
+        "firstName": "Sophia",
+        "lastName": "Brown",
+        "email": "sophia.brown@x.dummyjson.com",
+        "courseEnrolled": "Full-Stack-MERN",
+        "codekata": [],
+        "taskCompleted": [],
+        "mentorId": {
+          "$oid": "66e4206cd25e3f960b56a409"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "66e42e8d2206b47d5234f355"
+    },
+    "companyName": "Botsford, Marquardt and Roberts",
+    "students": [
+      {
+        "_id": {
+          "$oid": "66e41f9caf017674c1380e40"
+        },
+        "firstName": "Emily",
+        "lastName": "Johnson",
+        "email": "emily.johnson@x.dummyjson.com",
+        "courseEnrolled": "Full-Stack-MERN",
+        "codekata": [],
+        "taskCompleted": [],
+        "mentorId": {
+          "$oid": "66e4206cd25e3f960b56a408"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "66e41f9caf017674c1380e41"
+        },
+        "firstName": "Michael",
+        "lastName": "Williams",
+        "email": "michael.williams@x.dummyjson.com",
+        "courseEnrolled": "Full-Stack-MERN",
+        "codekata": [],
+        "taskCompleted": [],
+        "mentorId": {
+          "$oid": "66e4206cd25e3f960b56a408"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "66e41f9caf017674c1380e42"
+        },
+        "firstName": "Sophia",
+        "lastName": "Brown",
+        "email": "sophia.brown@x.dummyjson.com",
+        "courseEnrolled": "Full-Stack-MERN",
+        "codekata": [],
+        "taskCompleted": [],
+        "mentorId": {
+          "$oid": "66e4206cd25e3f960b56a409"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "66e42e8d2206b47d5234f353"
+    },
+    "companyName": "Considine - Torp",
+    "students": [
+      {
+        "_id": {
+          "$oid": "66e41f9caf017674c1380e40"
+        },
+        "firstName": "Emily",
+        "lastName": "Johnson",
+        "email": "emily.johnson@x.dummyjson.com",
+        "courseEnrolled": "Full-Stack-MERN",
+        "codekata": [],
+        "taskCompleted": [],
+        "mentorId": {
+          "$oid": "66e4206cd25e3f960b56a408"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "66e41f9caf017674c1380e41"
+        },
+        "firstName": "Michael",
+        "lastName": "Williams",
+        "email": "michael.williams@x.dummyjson.com",
+        "courseEnrolled": "Full-Stack-MERN",
+        "codekata": [],
+        "taskCompleted": [],
+        "mentorId": {
+          "$oid": "66e4206cd25e3f960b56a408"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "66e41f9caf017674c1380e42"
+        },
+        "firstName": "Sophia",
+        "lastName": "Brown",
+        "email": "sophia.brown@x.dummyjson.com",
+        "courseEnrolled": "Full-Stack-MERN",
+        "codekata": [],
+        "taskCompleted": [],
+        "mentorId": {
+          "$oid": "66e4206cd25e3f960b56a409"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "66e42e8d2206b47d5234f356"
+    },
+    "companyName": "Zulauf and Sons",
+    "students": [
+      {
+        "_id": {
+          "$oid": "66e41f9caf017674c1380e40"
+        },
+        "firstName": "Emily",
+        "lastName": "Johnson",
+        "email": "emily.johnson@x.dummyjson.com",
+        "courseEnrolled": "Full-Stack-MERN",
+        "codekata": [],
+        "taskCompleted": [],
+        "mentorId": {
+          "$oid": "66e4206cd25e3f960b56a408"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "66e41f9caf017674c1380e41"
+        },
+        "firstName": "Michael",
+        "lastName": "Williams",
+        "email": "michael.williams@x.dummyjson.com",
+        "courseEnrolled": "Full-Stack-MERN",
+        "codekata": [],
+        "taskCompleted": [],
+        "mentorId": {
+          "$oid": "66e4206cd25e3f960b56a408"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "66e41f9caf017674c1380e43"
+        },
+        "firstName": "James",
+        "lastName": "Davis",
+        "email": "james.davis@x.dummyjson.com",
+        "courseEnrolled": "Full-Stack-MERN",
+        "codekata": [],
+        "taskCompleted": [],
+        "mentorId": {
+          "$oid": "66e4206cd25e3f960b56a409"
+        }
+      }
+    ]
+  }
+]

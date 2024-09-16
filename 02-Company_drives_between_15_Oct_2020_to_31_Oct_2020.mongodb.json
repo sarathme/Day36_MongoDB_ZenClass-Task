@@ -1,0 +1,82 @@
+[
+  {
+    "_id": {
+      "$oid": "66e42e8d2206b47d5234f353"
+    },
+    "companyName": "Considine - Torp",
+    "appearedAt": {
+      "$date": "2020-10-15T00:00:00Z"
+    },
+    "studentsAppeared": [
+      {
+        "$oid": "66e41f9caf017674c1380e40"
+      },
+      {
+        "$oid": "66e41f9caf017674c1380e41"
+      },
+      {
+        "$oid": "66e41f9caf017674c1380e42"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "66e42e8d2206b47d5234f354"
+    },
+    "companyName": "Miller, Schowalter and Wisozk",
+    "appearedAt": {
+      "$date": "2020-10-17T00:00:00Z"
+    },
+    "studentsAppeared": [
+      {
+        "$oid": "66e41f9caf017674c1380e40"
+      },
+      {
+        "$oid": "66e41f9caf017674c1380e41"
+      },
+      {
+        "$oid": "66e41f9caf017674c1380e43"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "66e42e8d2206b47d5234f355"
+    },
+    "companyName": "Botsford, Marquardt and Roberts",
+    "appearedAt": {
+      "$date": "2020-10-21T00:00:00Z"
+    },
+    "studentsAppeared": [
+      {
+        "$oid": "66e41f9caf017674c1380e40"
+      },
+      {
+        "$oid": "66e41f9caf017674c1380e41"
+      },
+      {
+        "$oid": "66e41f9caf017674c1380e42"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "66e42e8d2206b47d5234f356"
+    },
+    "companyName": "Zulauf and Sons",
+    "appearedAt": {
+      "$date": "2020-10-31T00:00:00Z"
+    },
+    "studentsAppeared": [
+      {
+        "$oid": "66e41f9caf017674c1380e40"
+      },
+      {
+        "$oid": "66e41f9caf017674c1380e41"
+      },
+      {
+        "$oid": "66e41f9caf017674c1380e43"
+      }
+    ]
+  }
+]

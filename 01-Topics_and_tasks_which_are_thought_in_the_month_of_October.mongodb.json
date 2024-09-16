@@ -1,0 +1,52 @@
+[
+  {
+    "_id": {
+      "$oid": "66e427960d8802448e5e9aa2"
+    },
+    "description": "Conditional logging",
+    "courseName": "FullStack-MERN",
+    "topicId": {
+      "$oid": "66e4263ea4dd354d1eb98cf9"
+    },
+    "topic": {
+      "_id": {
+        "$oid": "66e4263ea4dd354d1eb98cf9"
+      },
+      "topicName": "Basic Javascript",
+      "taughtAt": {
+        "$date": "2020-10-10T00:00:00Z"
+      },
+      "courseName": "FullStack-MERN",
+      "mentorIds": [
+        {
+          "$oid": "66e4206cd25e3f960b56a408"
+        }
+      ]
+    }
+  },
+  {
+    "_id": {
+      "$oid": "66e427960d8802448e5e9aa3"
+    },
+    "description": "Array Methods",
+    "courseName": "FullStack-MERN",
+    "topicId": {
+      "$oid": "66e4263ea4dd354d1eb98cfa"
+    },
+    "topic": {
+      "_id": {
+        "$oid": "66e4263ea4dd354d1eb98cfa"
+      },
+      "topicName": "Javascript Arrays and Objects",
+      "taughtAt": {
+        "$date": "2020-10-11T00:00:00Z"
+      },
+      "courseName": "FullStack-MERN",
+      "mentorIds": [
+        {
+          "$oid": "66e4206cd25e3f960b56a408"
+        }
+      ]
+    }
+  }
+]

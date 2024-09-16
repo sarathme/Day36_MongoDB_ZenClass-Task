@@ -1,0 +1,33 @@
+[
+  {
+    "_id": {
+      "$oid": "66e7edd1f4fc7e8379ea92aa"
+    },
+    "date": {
+      "$date": "2020-10-20T00:00:00Z"
+    },
+    "studentId": {
+      "$oid": "66e80197805b2ea65a0583fc"
+    },
+    "status": "absent",
+    "students": {
+      "_id": {
+        "$oid": "66e80197805b2ea65a0583fc"
+      },
+      "firstName": "Emily",
+      "lastName": "Johnson",
+      "email": "emily.johnson@x.dummyjson.com",
+      "courseEnrolled": "Full-Stack-MERN",
+      "tasks": {
+        "taskId": {
+          "$oid": "66e427960d8802448e5e9aa2"
+        },
+        "taskStatus": "not-submitted",
+        "taskAssignedAt": {
+          "$date": "2020-10-10T00:00:00Z"
+        },
+        "taskSubmittedAt": ""
+      }
+    }
+  }
+]

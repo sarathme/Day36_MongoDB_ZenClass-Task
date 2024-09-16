@@ -1,0 +1,10 @@
+[
+  {
+    "_id": {
+      "$oid": "66e80197805b2ea65a0583fc"
+    },
+    "firstName": "Emily",
+    "lastName": "Johnson",
+    "codekataSolved": 1
+  }
+]
