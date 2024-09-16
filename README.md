@@ -2,7 +2,7 @@
 
 ## Tools and Environment
 
-I have used an extension called MongoDD for VSCode in VSCode Code Editor.
+I have used an extension called MongoDB for VSCode in VSCode Code Editor.
 
 MongoDB For VSCode Extension :
 [Install Here](https://marketplace.visualstudio.com/items?itemName=mongodb.mongodb-vscode)
